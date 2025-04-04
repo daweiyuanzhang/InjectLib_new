@@ -297,9 +297,13 @@
       "noSignTarget": true,
       "autoHandleHelper": true,
       "helperNoInject": true,
+      "dylibSelect":"CoreInject.dylib",
       "helperFile": "/Contents/Library/LaunchServices/ws.stash.app.mac.daemon.helper",
       "tccutil": [
         "All"
+      ],
+      "supportVersion":[
+        "3.1.0"
       ]
     },
     {
@@ -912,7 +916,11 @@
       "packageName": "app.mp3tag.Mp3tag",
       "needCopyToAppDir": true,
       "deepSignApp": true,
-      "injectFile": "Sparkle.framework/Versions/B/Sparkle"
+      "injectFile": "Sparkle.framework/Versions/B/Sparkle",
+      "dylibSelect":"CoreInject.dylib",
+      "supportVersion":[
+        "1.9.2"
+      ]
     },
     {
       "packageName": "tech.baye.servercat",
