@@ -716,10 +716,7 @@
         },
         {
             "packageName": "com.adobe.distiller",
-            "injectFile": "AdobeAGM.framework/Versions/A/AdobeAGM",
-            "supportVersion": [
-                "25.001.20467"
-            ]
+            "injectFile": "AdobeAGM.framework/Versions/A/AdobeAGM"
         },
         {
             "packageName": "com.adobe.InCopy",
