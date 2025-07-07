@@ -712,10 +712,7 @@
         {
             "packageName": "com.adobe.Acrobat.Pro",
             "bridgeFile": "/Contents/Frameworks/",
-            "injectFile": "Acrobat.framework/Versions/A/Acrobat",
-            "supportVersion": [
-                "25.001.20467"
-            ]
+            "injectFile": "Acrobat.framework/Versions/A/Acrobat"
         },
         {
             "packageName": "com.adobe.distiller",
