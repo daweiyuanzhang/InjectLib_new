@@ -286,7 +286,8 @@
         {
             "packageName": "com.surteesstudios.Bartender",
             "supportVersion": [
-                "5.3.6"
+                "5.3.6",
+                "5.3.8"
             ]
         },
         {
@@ -855,8 +856,13 @@
             "supportVersion": [
                 "5.6.0",
                 "5.6.1",
-                "5.6.2"
+                "5.6.2",
+                "5.6.3"
             ]
+        },
+        {
+            "packageName":"com.gitswift.SwiftServer",
+            "supportVersion":["1.1.2都不支持"]
         },
         {
             "packageName": "org.cindori.Sensei",
