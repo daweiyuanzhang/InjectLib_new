@@ -286,7 +286,8 @@
         {
             "packageName": "com.surteesstudios.Bartender",
             "supportVersion": [
-                "5.3.6"
+                "5.3.6",
+                "5.3.8"
             ]
         },
         {
@@ -711,17 +712,11 @@
         {
             "packageName": "com.adobe.Acrobat.Pro",
             "bridgeFile": "/Contents/Frameworks/",
-            "injectFile": "Acrobat.framework/Versions/A/Acrobat",
-            "supportVersion": [
-                "25.001.20467"
-            ]
+            "injectFile": "Acrobat.framework/Versions/A/Acrobat"
         },
         {
             "packageName": "com.adobe.distiller",
-            "injectFile": "AdobeAGM.framework/Versions/A/AdobeAGM",
-            "supportVersion": [
-                "25.001.20467"
-            ]
+            "injectFile": "AdobeAGM.framework/Versions/A/AdobeAGM"
         },
         {
             "packageName": "com.adobe.InCopy",
@@ -855,8 +850,13 @@
             "supportVersion": [
                 "5.6.0",
                 "5.6.1",
-                "5.6.2"
+                "5.6.2",
+                "5.6.3"
             ]
+        },
+        {
+            "packageName":"com.gitswift.SwiftServer",
+            "supportVersion":["1.1.2都不支持"]
         },
         {
             "packageName": "org.cindori.Sensei",
