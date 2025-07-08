@@ -61,6 +61,10 @@ QQ群:
 
 [![启动](https://i2.hdslb.com/bfs/archive/966fe6fe2c1329919bb8972d69fb8c09d17047cc.jpg@100w_100h_1c.png)](imgs/bengbuzhule.mp4)
 
+# 现已支持IPA注入
+
+查看[文档](./iOSHijack/readme.md)了解更多细节。
+
 # 操作系统要求 & 代码编译环境要求
 
 - 最低运行 macOS High Sierra 10.13
